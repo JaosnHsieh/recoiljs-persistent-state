@@ -22,3 +22,6 @@ create-react-app `3.4.1`
 recoil `0.0.10`
 
 react `16.13.1`
+
+[issue](https://github.com/facebookexperimental/Recoil/issues/422)
+`ended up I didn't use recoiljs for next project due to I cannot find a solution to do refetch / re-evaluation.`
