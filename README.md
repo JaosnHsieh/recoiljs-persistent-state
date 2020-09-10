@@ -2,8 +2,8 @@
 
 A try for new react state management [recoil](https://recoiljs.org/) `async data queries` and `persistent state` with mocking api by json-server
 
-1. [persistent state](https://recoiljs.org/docs/guides/persistence) works but not elegant
-2. [Asynchronous Data Queries](https://recoiljs.org/docs/guides/asynchronous-data-queries) works well.
+1. [persistent state](https://recoiljs.org/docs/guides/persistence) works.
+2. [Asynchronous Data Queries](https://recoiljs.org/docs/guides/asynchronous-data-queries) works.
 
 ## Start mocking api server
 
@@ -13,7 +13,9 @@ A try for new react state management [recoil](https://recoiljs.org/) `async data
 
 `$ yarn start`
 
-### persist currentUserIDState only
+`persist currentUserIDState only`
+
+versions:
 
 create-react-app `3.4.1`
 
