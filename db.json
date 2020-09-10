@@ -1,0 +1,9 @@
+{
+  "users": [
+    { "id": 1, "name": "jason 1", "friendList": [2, 3] },
+    { "id": 2, "name": "jason 2", "friendList": [3] },
+    { "id": 3, "name": "jason 1", "friendList": [1, 2] },
+    { "id": 4, "name": "jason 1", "friendList": [] },
+    { "id": 5, "name": "jason 1", "friendList": [] }
+  ]
+}
